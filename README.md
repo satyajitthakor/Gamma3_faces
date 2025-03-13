@@ -39,7 +39,8 @@ To run the code, you need to install the following Python libraries:
 ```bash
 pip install numpy plotly
 ```
-![newplot](https://github.com/user-attachments/assets/b02c029a-162f-4b4e-a55e-28d9db389500)
+![newplot](https://github.com/user-attachments/assets/e8d255a7-d956-4af3-a389-f792a479b201)
+
 
 
 

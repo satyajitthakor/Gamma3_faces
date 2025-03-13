@@ -1,10 +1,5 @@
 # $\Gamma_3^*$
 
-This repository contains code for visualizing the solution region of the inequality $a + b \geq \log_2(\lceil 2^a 
-ceil)$ in 2D space using Matplotlib. The plot shows the valid region where the inequality holds true for the values of $a$ and $b$, with shading and contours.
-
-In addition, this repository contains code to generate an interactive 3D plot visualizing vectors and inequalities in a 3D space using Plotly. The vectors are of the form $h = \lambda_{12}e_{12} + \lambda_{13}e_{13} + \lambda_{123'}e_{123'}$, and the inequalities are represented in terms of tuples $(\lambda_{12}, \lambda_{13}, \lambda_{123'})_h$ for $\lambda_j \geq 0$, where $j \in \{{12, 13, 123'}\}$. The gray region represents the inner bound in terms of these tuples, and the vector $k$ (reference to our paper's Proposition 1), is depicted as a red point.
-
 ## Matus 2D Inequality Visualization
 
 ### Requirements

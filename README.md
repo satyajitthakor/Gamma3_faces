@@ -1,84 +1,43 @@
-# \(\Gamma_3^*\)
+# $\Gamma_3^*$
 
-This repository contains code for visualizing the solution region of the inequality:
+This repository contains code for visualizing the solution region of the inequality $a + b \geq \log_2(\lceil 2^a 
+ceil)$ in 2D space using Matplotlib. The plot shows the valid region where the inequality holds true for the values of $a$ and $b$, with shading and contours.
 
-\[
-a + b \geq \log_2(\lceil 2^a \rceil)
-\]
+This repository contains code to generate an interactive 3D plot visualizing vectors and inequalities in a 3D space using Plotly. The vectors are of the form $h = \lambda_{12}e_{12} + \lambda_{13}e_{13} + \lambda_{123'}e_{123'}$, and the inequalities are represented in terms of tuples $(\lambda_{12}, \lambda_{13}, \lambda_{123'})_h$ for $\lambda_j \geq 0$, where $j \in {12, 13, 123'}$. The gray region represents the inner bound in terms of these tuples, and the vector $k$ (reference to our paper's Proposition 1), is depicted as a red point.
 
-in 2D space using Matplotlib. The plot highlights the valid region where the inequality holds true for values of \( a \) and \( b \), with appropriate shading and contours.
+## Matus 2D Inequality Visualization
 
-Additionally, this repository provides an interactive 3D plot for visualizing vectors and inequalities in a 3D space using Plotly. The vectors are of the form:
-
-\[
-h = \lambda_{12}e_{12} + \lambda_{13}e_{13} + \lambda_{123'}e_{123'}
-\]
-
-where the inequalities are represented as tuples:
-
-\[
-(\lambda_{12}, \lambda_{13}, \lambda_{123'})_h, \quad \lambda_j \geq 0, \quad j \in \{12, 13, 123'\}.
-\]
-
-The gray region represents the inner bound for these tuples, while the vector \( k \) (referenced in Proposition 1 of our paper) is depicted as a red point.
-
----
-
-## **Matus 2D Inequality Visualization**
-
-### **Requirements**
+### Requirements
 
 This project requires the following Python libraries:
 
-- **NumPy**: For numerical calculations.  
-- **Matplotlib**: For plotting the 2D visualizations.  
+- **NumPy**: For numerical calculations.
+- **Matplotlib**: For plotting the 2D visualizations.
 
-Install them using:
+You can install the required libraries using pip:
 
 ```bash
 pip install numpy matplotlib
 ```
 
-### **Figure**
+![Figure_1](https://github.com/user-attachments/assets/259ed0d1-76ac-46db-987f-e59e6b2309a3)
 
-![Figure 1](https://github.com/user-attachments/assets/259ed0d1-76ac-46db-987f-e59e6b2309a3)
+## 3D Visualization of Vectors and Inequalities
 
----
+The code calculates and visualizes the following:
 
-## **3D Visualization of Vectors and Inequalities**
+- Valid region where the inequalities are satisfied.
+- Boundaries of the inequalities.
+- Intersection points between different inequalities.
+- Dotted lines that represent various critical data points in the 3D space.
+- A specific marked point in the 3D space, highlighted in blue.
 
-The code calculates and visualizes:
+## Requirements
 
-- The valid region where inequalities hold.  
-- Boundaries of the inequalities.  
-- Intersection points between different inequalities.  
-- Dotted lines representing critical data points in 3D space.  
-- A specific marked point in 3D space, highlighted in blue.  
-
-### **Requirements**
-
-To run the 3D visualization, install the following:
+To run the code, you need to install the following Python libraries:
 
 ```bash
 pip install numpy plotly
 ```
 
-### **Figure**
-
-![3D Plot](https://github.com/user-attachments/assets/ed42b6d2-e139-46a5-8c1e-fbc3071772fa)
-
----
-
-### **Usage**
-
-Run the 2D visualization:
-```bash
-python matus_2d_plot.py
-```
-
-Run the 3D visualization:
-```bash
-python vector_inequality_3d.py
-```
-
-For any issues, feel free to open an issue or contribute to the repository! 🚀
+![newplot](https://github.com/user-attachments/assets/ed42b6d2-e139-46a5-8c1e-fbc3071772fa)

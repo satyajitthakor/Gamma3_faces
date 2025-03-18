@@ -41,8 +41,6 @@ Click the link below to view the interactive 3D plot:
 [📊 View 3D Plot](https://drive.google.com/file/d/1q9EqhcjPO7bGZAQkjtKHsw9ydPjdiY6u/view?usp=sharing)
 ![newplot (6)](https://github.com/user-attachments/assets/c2c13f91-92a2-4768-9d93-867a848d75b3)
 
-![newplot (4)](https://github.com/user-attachments/assets/56bcdee5-d801-4753-9cba-7b890c45dfcb)
-
 
 
 

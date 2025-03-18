@@ -34,6 +34,12 @@ To run the code, you need to install the following Python libraries:
 ```bash
 pip install numpy plotly
 ```
+### Interactive 3D Plot
+
+Click the link below to view the interactive 3D plot:
+
+[📊 View 3D Plot](https://drive.google.com/file/d/1q9EqhcjPO7bGZAQkjtKHsw9ydPjdiY6u/view?usp=sharing)
+
 ![newplot (4)](https://github.com/user-attachments/assets/56bcdee5-d801-4753-9cba-7b890c45dfcb)
 
 

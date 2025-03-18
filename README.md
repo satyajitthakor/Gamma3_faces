@@ -1,22 +1,5 @@
 # $\Gamma_3^*$
 
-## Matus 2D Inequality Visualization
-
-### Requirements
-
-This project requires the following Python libraries:
-
-- **NumPy**: For numerical calculations.
-- **Matplotlib**: For plotting the 2D visualizations.
-
-You can install the required libraries using pip:
-
-```bash
-pip install numpy matplotlib
-```
-
-![Figure_1](https://github.com/user-attachments/assets/259ed0d1-76ac-46db-987f-e59e6b2309a3)
-
 ## 3D Visualization of Vectors and Inequalities
 
 The code calculates and visualizes the following:
@@ -50,5 +33,20 @@ A zoomed projection of the above 3D plot is shown here:
 
 
 
+## Matus 2D Inequality Visualization
 
+### Requirements
+
+This project requires the following Python libraries:
+
+- **NumPy**: For numerical calculations.
+- **Matplotlib**: For plotting the 2D visualizations.
+
+You can install the required libraries using pip:
+
+```bash
+pip install numpy matplotlib
+```
+
+![Figure_1](https://github.com/user-attachments/assets/259ed0d1-76ac-46db-987f-e59e6b2309a3)
 

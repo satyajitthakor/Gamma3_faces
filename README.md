@@ -36,7 +36,8 @@ A zoomed projection of the above 3D plot is shown here:
 #### For face ($\lambda_{123'}, \lambda_{12}, \lambda_{1}$) (Not Matus Inequality-based, i.e., $\lambda_{123'} = log_2(M), M \in \mathbb{N}$):
 [![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)
 A zoomed projection of the above 3D plot is shown here:
-![newplot (13)](https://github.com/user-attachments/assets/2b3b8a9c-9dee-4061-b91b-e23d950647fa)
+![newplot (14)](https://github.com/user-attachments/assets/198ce710-675e-4587-b573-687f7ec23118)
+
 
 
 

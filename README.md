@@ -37,7 +37,7 @@ A zoomed projection of the above 3D plot is shown here:
 [![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)
 
 A zoomed projection of the above 3D plot is shown here:
-![newplot (12)](https://github.com/user-attachments/assets/4148249a-828b-46b1-b94b-b676a5ea1c4b)
+![newplot (13)](https://github.com/user-attachments/assets/2b3b8a9c-9dee-4061-b91b-e23d950647fa)
 
 
 

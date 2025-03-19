@@ -4,7 +4,7 @@ The codes calculate and visualizes the following:
 
 - Valid region where the inequalities are satisfied.
 - Boundaries of the inequalities.
-- 
+
 ## 3D Visualizations of Vectors and Inequalities
 
 ### Requirements

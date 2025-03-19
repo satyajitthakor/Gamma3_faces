@@ -56,6 +56,7 @@ python 3D_vis_12_1_123.ipynb
 Click the link below to view the interactive 3D plot:
 
 [![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)
+
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (14)](https://github.com/user-attachments/assets/e77c4a08-ab11-4d32-900a-19be3e3b15f2)
 

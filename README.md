@@ -26,7 +26,8 @@ Click the link below to view the interactive 3D plot:
 
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (6)](https://github.com/user-attachments/assets/c2c13f91-92a2-4768-9d93-867a848d75b3)
-To reproduce the plot, run:
+
+##### To reproduce the plot, run:
 ```bash
 python 3D_visualization.ipynb
 ```
@@ -37,7 +38,8 @@ python 3D_visualization.ipynb
 
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (7)](https://github.com/user-attachments/assets/d7e44b07-4699-4ce3-b634-ba51521e07d3)
-To reproduce the plot, run:
+
+##### To reproduce the plot, run:
 ```bash
 python 3D_vis_12_1_123.ipynb
 ```
@@ -47,7 +49,8 @@ python 3D_vis_12_1_123.ipynb
 
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (14)](https://github.com/user-attachments/assets/198ce710-675e-4587-b573-687f7ec23118)
-To reproduce the plot, run:
+
+##### To reproduce the plot, run:
 ```bash
 python 3D_vis_12_1_123.ipynb
 ```

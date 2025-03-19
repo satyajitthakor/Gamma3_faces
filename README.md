@@ -24,17 +24,20 @@ pip install numpy plotly
 Click the link below to view the interactive 3D plot:
 ### For face ($\lambda_{123'}, \lambda_{12}, \lambda_{13}$):
 
-[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot.html)\\
+[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot.html)
+
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (6)](https://github.com/user-attachments/assets/c2c13f91-92a2-4768-9d93-867a848d75b3)
 
 ### For face ($\lambda_{123'}, \lambda_{12}, \lambda_{1}$) (Matus Inequality-based):
-[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_12_123.html)\\
+[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_12_123.html)
+
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (7)](https://github.com/user-attachments/assets/d7e44b07-4699-4ce3-b634-ba51521e07d3)
 
 ### For face ($\lambda_{123'}, \lambda_{12}, \lambda_{1}$)\\ (Not Matus Inequality-based, i.e., $\lambda_{123'} = log_2(M), M \in \mathbb{N}$):
-[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)\\
+[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)
+
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (9)](https://github.com/user-attachments/assets/31dd2617-fe18-4c3e-9a5d-2f85fbe5064d)
 

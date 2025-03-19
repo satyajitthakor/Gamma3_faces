@@ -6,9 +6,7 @@ The code calculates and visualizes the following:
 
 - Valid region where the inequalities are satisfied.
 - Boundaries of the inequalities.
-- Intersection points between different inequalities.
-- Dotted lines that represent various critical data points in the 3D space.
-- A specific marked point in the 3D space, highlighted in blue.
+
 
 ## Requirements
 

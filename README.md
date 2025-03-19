@@ -1,4 +1,4 @@
-# $\Gamma_3^*$
+![newplot (12)](https://github.com/user-attachments/assets/db151214-8103-4c8a-a548-1986a3a75229)# $\Gamma_3^*$
 
 ## 3D Visualization of Vectors and Inequalities
 
@@ -37,7 +37,8 @@ A zoomed projection of the above 3D plot is shown here:
 [![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)
 
 A zoomed projection of the above 3D plot is shown here:
-![newplot (9)](https://github.com/user-attachments/assets/31dd2617-fe18-4c3e-9a5d-2f85fbe5064d)
+![newplot (12)](https://github.com/user-attachments/assets/4148249a-828b-46b1-b94b-b676a5ea1c4b)
+
 
 
 

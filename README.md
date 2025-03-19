@@ -85,6 +85,7 @@ pip install numpy matplotlib
 ```
 
 ![Figure_1](https://github.com/user-attachments/assets/259ed0d1-76ac-46db-987f-e59e6b2309a3)
+
 To reproduce the plot, run:
 ```bash
 python 2D_Matus_Visualization.ipynb

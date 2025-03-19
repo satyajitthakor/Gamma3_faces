@@ -1,12 +1,11 @@
-# $\Gamma_3^*$
+# Distribution Construction Approaches for Constrained Entropy Vectors and Converse Results
 
-## 3D Visualization of Vectors and Inequalities
-
-The code calculates and visualizes the following:
+The codes calculate and visualizes the following:
 
 - Valid region where the inequalities are satisfied.
 - Boundaries of the inequalities.
-
+- 
+## 3D Visualizations of Vectors and Inequalities
 
 ### Requirements
 

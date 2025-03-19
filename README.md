@@ -1,6 +1,6 @@
 # Distribution Construction Approaches for Constrained Entropy Vectors and Converse Results ($\Gamma_{3}^*$)
 
-The codes calculate and visualizes the following:
+The codes calculate and visualize the following:
 
 - Valid region where the inequalities are satisfied.
 - Boundaries of the inequalities.

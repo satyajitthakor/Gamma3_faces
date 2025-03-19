@@ -1,4 +1,4 @@
-![newplot (12)](https://github.com/user-attachments/assets/db151214-8103-4c8a-a548-1986a3a75229)# $\Gamma_3^*$
+# $\Gamma_3^*$
 
 ## 3D Visualization of Vectors and Inequalities
 

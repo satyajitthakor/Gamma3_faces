@@ -17,7 +17,7 @@ pip install numpy plotly
 ```
 
 
-### Interactive 3D Plot
+### Interactive 3D Plots
 
 Click the link below to view the interactive 3D plot:
 #### For face ($\lambda_{123'}, \lambda_{12}, \lambda_{13}$):

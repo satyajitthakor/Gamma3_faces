@@ -10,8 +10,11 @@ The code calculates and visualizes the following:
 
 ### Requirements
 
-To run the code, you need to install the following Python libraries:
+To run 3D visualization codes, you need to install the following Python libraries:
+- **NumPy**: For numerical calculations.
+- **Plotly**: For obtaining the 3D visualizations.
 
+You can install the required libraries using pip:
 ```bash
 pip install numpy plotly
 ```
@@ -70,7 +73,7 @@ python 3D_vis_12_1_123.ipynb
 
 ### Requirements
 
-This project requires the following Python libraries:
+To run 2D visualization code, you need to install the following Python libraries:
 
 - **NumPy**: For numerical calculations.
 - **Matplotlib**: For plotting the 2D visualizations.

@@ -26,7 +26,7 @@ pip install numpy plotly
 
 Click the link below to view the interactive 3D plot:
 
-[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot.html)
+[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma3_faces/interactive_3D_plot.html)
 
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (6)](https://github.com/user-attachments/assets/c2c13f91-92a2-4768-9d93-867a848d75b3)
@@ -41,10 +41,11 @@ python 3D_visualization.ipynb
 
 Click the link below to view the interactive 3D plot:
 
-[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_12_123.html)
+[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma3_faces/interactive_3D_plot_12_123.html)
 
 A zoomed projection of the above 3D plot is shown here:
-![newplot (7)](https://github.com/user-attachments/assets/d7e44b07-4699-4ce3-b634-ba51521e07d3)
+![newplot (15)](https://github.com/user-attachments/assets/f43ecfd7-c2db-4847-b362-491a72269fe7)
+
 
 To reproduce the plot, run:
 ```bash
@@ -55,7 +56,7 @@ python 3D_vis_12_1_123.ipynb
 
 Click the link below to view the interactive 3D plot:
 
-[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma_3/interactive_3D_plot_log2M_1_2_3_4.html)
+[![📊 View 3D Plot](https://img.shields.io/badge/Open-3D%20Plot-blue?style=for-the-badge)](https://satyajitthakor.github.io/Gamma3_faces/interactive_3D_plot_log2M_1_2_3_4.html)
 
 A zoomed projection of the above 3D plot is shown here:
 ![newplot (14)](https://github.com/user-attachments/assets/e77c4a08-ab11-4d32-900a-19be3e3b15f2)
